@@ -1,7 +1,9 @@
-package com.hi.baidu.learnandroidfromzero;
+package com.hi.baidu.learnandroidfromzero.adapter;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.hi.baidu.learnandroidfromzero.R;
 
 import android.content.Context;
 import android.view.LayoutInflater;

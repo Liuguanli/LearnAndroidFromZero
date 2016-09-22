@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">LearnAndroidFromZero</string>
-    <string name="action_settings">Settings</string>
+    <string name="search">search</string>
+    <string name="more">more</string>
+    <string name="help">help</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_uicomponent_avtivity">UIComponentAvtivity</string>
+    <string name="title_activity_recycle_list_view">RecycleListViewActivity</string>
 </resources>

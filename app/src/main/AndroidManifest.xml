@@ -9,14 +9,25 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
         <activity
-                android:name=".MainActivity"
+                android:name=".activity.MainActivity"
                 android:label="@string/app_name"
-                android:theme="@style/AppTheme.NoActionBar">
+                android:theme="@style/AppTheme.NoActionBar"
+                android:uiOptions="">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
+        </activity>
+        <activity
+                android:name=".activity.UIComponentAvtivity"
+                android:label="@string/title_activity_uicomponent_avtivity"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+                android:name=".activity.RecycleViewActivity"
+                android:label="@string/title_activity_recycle_list_view"
+                android:theme="@style/AppTheme.NoActionBar">
         </activity>
     </application>
 
