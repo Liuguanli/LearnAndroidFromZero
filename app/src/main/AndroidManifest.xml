@@ -29,6 +29,11 @@
                 android:label="@string/title_activity_recycle_list_view"
                 android:theme="@style/AppTheme.NoActionBar">
         </activity>
+        <activity
+                android:name=".activity.SwipeRefreshActivity"
+                android:label="@string/title_activity_swipe_refresh"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>

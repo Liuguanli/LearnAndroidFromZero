@@ -6,4 +6,5 @@
     <string name="title_activity_list_view">ListViewActivity</string>
     <string name="title_activity_uicomponent_avtivity">UIComponentAvtivity</string>
     <string name="title_activity_recycle_list_view">RecycleListViewActivity</string>
+    <string name="title_activity_swipe_refresh">SwipeRefreshActivity</string>
 </resources>
